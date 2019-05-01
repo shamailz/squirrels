@@ -11,7 +11,19 @@ $(document).ready(function(){
     var squirrelTop = 0;
     var squirrelLeft = 0;
 
+    var carWidth = 170;
+    var carHeight = 90;
+
+    //update the numbers to variables!
+
+    if(window.clientWidth < 800){
+        carWidth = 200;
+        carHeight = 110;        
+    }
+
     setInterval(function(){
+
+
 
         // add a class that all cars have like "car"
 
@@ -20,23 +32,67 @@ $(document).ready(function(){
             var carPositionLeft = $(this).offset().left;
             var carPositionTop = $(this).offset().top;
 
-            if(squirrelTop >= carPositionTop && squirrelTop  <= carPositionTop + 90){
-               if(squirrelLeft >= carPositionLeft && squirrelLeft <= carPositionLeft + 170){
+            if(squirrelTop >= carPositionTop && squirrelTop  <= carPositionTop + carHeight){
+               if(squirrelLeft >= carPositionLeft && squirrelLeft <= carPositionLeft + carWidth){
                 // run over!
                  window.location.replace("title.html");
-                }
-            }            
+               }
+         }            
 
-        })
+       })
 
         // EXAMPLE WITH CAR 1:
-       // var carOneTop = $(".car1").offset().top;
-       //  var carOneLeft = $(".car1").offset().left;
-        // if(squirrelTop >= carOneTop && squirrelTop  <= carOneTop + 90){
-        //     if(squirrelLeft >= carOneLeft && squirrelLeft <= carOneLeft + 170){
+        var carOneTop = $(".front").offset().top;
+        var carOneLeft = $(".front").offset().left;
+         if(squirrelTop >= carOneTop && squirrelTop  <= carOneTop + 90){
+            if(squirrelLeft >= carOneLeft && squirrelLeft <= carOneLeft + 170){
         //         // run over!
-        //     }
-        // }
+                window.location.replace("title.html");
+             }
+         }
+
+         var carTwoTop = $(".front1").offset().top;
+        var carTwoLeft = $(".front1").offset().left;
+         if(squirrelTop >= carTwoTop && squirrelTop  <= carTwoTop + 90){
+            if(squirrelLeft >= carTwoeft && squirrelLeft <= carTwoLeft + 170){
+        //         // run over!
+                window.location.replace("title.html");
+             }
+         }
+         var carThreeTop = $(".front2").offset().top;
+        var carThreeLeft = $(".front2").offset().left;
+         if(squirrelTop >= carThreeTop && squirrelTop  <= carThreeTop + 90){
+            if(squirrelLeft >= carThreeLeft && squirrelLeft <= carThreeLeft + 170){
+        //         // run over!
+                window.location.replace("title.html");
+             }
+         }
+         var carFourTop = $(".front3").offset().top;
+        var carFourLeft = $(".front3").offset().left;
+         if(squirrelTop >= carFourTop && squirrelTop  <= carFourTop + 90){
+            if(squirrelLeft >= carFourLeft && squirrelLeft <= carFourLeft + 170){
+        //         // run over!
+                window.location.replace("title.html");
+             }
+         }
+         var carFiveTop = $(".front4").offset().top;
+        var carFiveLeft = $(".front4").offset().left;
+         if(squirrelTop >= carFiveTop && squirrelTop  <= carFiveTop + 90){
+            if(squirrelLeft >= carFiveLeft && squirrelLeft <= carFiveLeft + 170){
+        //         // run over!
+                window.location.replace("title.html");
+             }
+         }
+         var carSixTop = $(".front5").offset().top;
+        var carSixLeft = $(".front5").offset().left;
+         if(squirrelTop >= carSixTop && squirrelTop  <= carSixTop + 90){
+            if(squirrelLeft >= carSixLeft && squirrelLeft <= carSixLeft + 170){
+        //         // run over!
+                window.location.replace("title.html");
+             }
+         }
+
+
     }, 100)
     
 
@@ -92,18 +148,21 @@ $(document).ready(function(){
                 window.location.replace("third-page.html");
             }
     	}
-        function checkLocation() {
-        var carSpot = $([".car1", ".car2", ".car3", ".car4", ".car5", ".car6"]).offset();
-        var squirrelSpot = $(".squirrel").offset();
-    if (carSpot.top == squirrelpot.top && carSpot.left == squirrelpot.left ) {
-       var pageURL = $(location).attr("title.html");
-            alert(pageURL);
-            console.log(cSpot)
-    }
-  }
+    })
+        
 
-	})
-	
+//$(".up").click(function(){
+  //  top = top+10;
+//})
+// $(".down").click(function(){
+//     top = top - 10;
+// })
+// $(".left").click(function(){
+//     left = left + 10;
+// })
+// $(".right").click(function(){
+//     left = left - 10;
+//})
 	//var cars = [".car1", ".car2", ".car3", ".car4", ".car5", ".car6"];
 
 
