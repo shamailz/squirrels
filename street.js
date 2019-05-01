@@ -23,7 +23,7 @@ $(document).ready(function(){
             if(squirrelTop >= carPositionTop && squirrelTop  <= carPositionTop + 90){
                if(squirrelLeft >= carPositionLeft && squirrelLeft <= carPositionLeft + 170){
                 // run over!
-                window.location.replace("title.html");
+                 window.location.replace("title.html");
                 }
             }            
 

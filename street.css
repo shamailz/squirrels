@@ -675,9 +675,9 @@ body{
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
 
-  	body{
-  		overflow: hidden;
-  	}
+body{
+  	overflow: hidden;
+}
 
 
 .dashes{
