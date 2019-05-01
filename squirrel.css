@@ -30,25 +30,29 @@ a:hover{
 	text-decoration: underline;
 	color: hsl(218, 5%, 25%);
 }
-@media only screen and (max-width: 600px){
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
 	.title{
-	font-size: 45px;
+	font-size: 90px;
 	margin-top: 13vh;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
 
 .info{
-	font-size: 20px;
-	padding-left: 10vw;
-	padding-right: 10vw;
+	font-size: 50px;
+	padding-left: 4vw;
+	padding-right: 4vw;
 	text-align: center;
 	margin-top: -3vh;
 	color: hsl(218, 4%, 49%);
 }
 
 .begin{
-	font-size: 40px;
+	font-size: 70px;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
