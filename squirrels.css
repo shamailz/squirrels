@@ -17,9 +17,14 @@ body{
 	display: block;
 }
 
-@media only screen and (max-width: 375px){
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
 	.asleep{
-	font-size: 900px;
+	font-size: 90px;
 	text-align: center;
 	margin-top: 10vh;
 	color:hsl(218, 9%, 75%);
@@ -35,3 +40,5 @@ body{
 }
 
 }
+
+@media only screen and (min-device-width( )) and (max-device-width( ))
