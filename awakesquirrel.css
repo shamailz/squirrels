@@ -1,0 +1,21 @@
+body{
+	font-family: 'Cabin', sans-serif;
+	background-color: hsl(218, 9%, 75%);
+}
+.awake{
+	font-size: 30px;
+	text-align: center;
+	padding-left: 20vw;
+	padding-right: 20vw;
+}
+
+@media only screen and (max-width: 600px){
+	.awake{
+	font-size: 25px;
+	text-align: center;
+	padding-left: 15vw;
+	padding-right: 15vw;
+	margin-top: 1vh;
+}
+
+}

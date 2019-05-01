@@ -1,0 +1,12 @@
+body{
+	background-color:hsl(278, 2%, 12%);
+	font-family: 'Cabin', sans-serif;
+}
+
+.over{
+	font-size: 30px;
+	text-align: center;
+	margin-left: 20vw;
+	margin-right: 20vw;
+	color:hsl(278, 2%, 37%);
+}

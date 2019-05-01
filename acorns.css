@@ -1,0 +1,97 @@
+body{
+	background-color: hsl(278, 2%, 60%);
+	font-family: 'Cabin', sans-serif;
+	overflow:hidden;
+}
+.finished{
+	position: absolute;
+	font-size: 30px;
+	text-align: center;
+	top: 40vh;
+	left: 20vw;
+	right: 20vw;
+	color:white;
+}
+a:hover , a:active , a:visited , a:link{
+	color: white;
+	text-decoration: none;
+}
+#one{
+	margin-top: 78vh;
+	position: absolute;
+	left: 30vw;
+}
+#two{
+	position: absolute;
+	margin-top: 56vh;
+	left: 37vw;
+}
+#three{
+	position: absolute;
+	margin-top: 34vh;
+	left: 36vw;
+}
+#four{
+	position: absolute;
+	top: 19vh;
+	left: 29.5vw;
+}
+#five{
+	position: absolute;
+	left: 30vw;
+	top: -10vh;
+}
+@media only screen and (max-width: 900px){
+	#one{
+	margin-top: 78vh;
+	position: absolute;
+	left: 15vw;
+}
+#two{
+	position: absolute;
+	margin-top: 56vh;
+	left: 25vw;
+}
+#three{
+	position: absolute;
+	margin-top: 36vh;
+	left: 24vw;
+}
+#four{
+	position: absolute;
+	top: 20vh;
+	left: 13vw;
+}
+#five{
+	position: absolute;
+	left: 12vw;
+	top: -10vh;
+}
+}
+@media only screen and (max-width: 600px){
+	#one{
+	margin-top: 78vh;
+	position: absolute;
+	left: 0vw;
+}
+#two{
+	position: absolute;
+	margin-top: 56vh;
+	left: 13vw;
+}
+#three{
+	position: absolute;
+	margin-top: 35vh;
+	left: 13vw;
+}
+#four{
+	position: absolute;
+	top: 20vh;
+	left: -2vw;
+}
+#five{
+	position: absolute;
+	left: -1vw;
+	top: -10vh;
+}
+}

@@ -1,0 +1,1215 @@
+body{
+	background-color: hsl(278, 2%, 60%);
+	font-family: 'Cabin', sans-serif;
+	overflow-x:hidden;
+}
+
+.find{
+	font-size: 90px;
+	text-align: center;
+	color:hsl(278, 2%, 41%);
+	position: relative;
+}
+.one{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.two{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.three{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.four{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.five{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.six{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.nine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ten{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eleven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twelve{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fifteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventeen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eighteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.nineteen{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twenty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}.twentyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fifty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventy{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}.seventyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eighty{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyseven{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyeight{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightynine{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninety{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyone{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetytwo{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetythree{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyfour{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyfive{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetysix{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: hsl(278, 2%, 26%);
+}
+@media only screen and (max-width: 900px){
+	.find{
+		font-size: 70px;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	.find{
+		font-size: 50px;
+		text-align: center;
+		margin-left: -8vh;
+	}
+	.one{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.two{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.three{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.four{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.five{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.six{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.nine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ten{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eleven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twelve{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fifteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventeen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eighteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.nineteen{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twenty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}.twentyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.twentynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.thirtynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fourtynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fifty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.fiftynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.sixtynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventy{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}.seventyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.seventynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eighty{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.eightynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninety{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyone{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetytwo{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetythree{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyfour{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyfive{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetysix{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyseven{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetyeight{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+.ninetynine{
+	display: inline-block;
+	height:40px;
+	width:40px;
+	background-color: hsl(278, 2%, 26%);
+}
+}

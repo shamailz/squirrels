@@ -1,0 +1,664 @@
+body{
+	background-color: hsl(218, 3%, 52%);
+	overflow: hidden;
+}
+
+@keyframes moving{
+	0%{
+		transform: translate(-200px,0);
+	}
+	100%{
+		transform: translate(100%,0);
+	}
+}
+@keyframes moving2{
+	0%{
+		transform: translate(-500px,0);
+	}
+	100%{
+		transform: translate(100%,0);
+	}
+}
+
+
+.street{
+	position: absolute;
+	height: 90%;
+	width: 99%;
+	background-color: hsl(218, 5%, 33%);
+}
+.dashes{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 20vh;
+	margin-top: 27vw;
+}
+.dash1{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 60vh;
+	margin-top: 27vw;
+}
+.dash2{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 105vh;
+	margin-top: 27vw;
+}
+.dash3{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 150vh;
+	margin-top: 27vw;
+}
+.dash4{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 190vh;
+	margin-top: 27vw;
+}
+.dash5{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 150vh;
+	margin-top: 10vw;
+}
+.dash6{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 190vh;
+	margin-top: 10vw;
+}
+.dash7{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 20vh;
+	margin-top: 10vw;
+}
+.dash8{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 60vh;
+	margin-top: 10vw;
+}
+.dash9{
+	position: absolute;
+	height: 20px;
+	width: 70px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 105vh;
+	margin-top: 10vw;
+}
+.front{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheels{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel1{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.front3{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top3{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel6{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel7{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.front1{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top1{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel2{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel3{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.front4{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top4{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel8{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel9{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.front2{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top2{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel5{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel4{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.front5{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top5{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 7vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel10{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel11{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 14.5vw;
+	background-color: black;
+}
+.car1{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 3200ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	
+}
+.car2{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 4000ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+.car3{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 2500ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	}
+.car4{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 6400ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+.car5{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 8000ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	}
+.car6{
+	position: absolute;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+.squirrel{
+	position: absolute;
+	left: 80%;
+	top: 550px;
+	height: 10px;
+	width: 10px;
+	z-index: 1000;
+}
+
+@media only screen and (max-width: 600px){
+	.dashes{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 3vh;
+	margin-top: 33vw;
+}
+	.dash1{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 17vh;
+	margin-top: 33vw;
+}
+.dash2{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 32vh;
+	margin-top: 33vw;
+}
+.dash3{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 47vh;
+	margin-top: 33vw;
+}
+.dash4{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 62vh;
+	margin-top: 33vw;
+}
+.dash5{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 3vh;
+	margin-top: 80vw;
+}
+.dash6{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 17vh;
+	margin-top: 80vw;
+}
+.dash7{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 32vh;
+	margin-top: 80vw;
+}
+.dash8{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 47vh;
+	margin-top: 80vw;
+}
+.dash9{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 62vh;
+	margin-top: 80vw;
+}
+.front{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheels{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel1{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front3{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top3{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel6{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel7{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front1{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top1{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel2{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel3{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front4{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top4{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel8{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel9{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front2{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top2{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel5{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel4{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front5{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top5{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel10{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel11{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+
+}
+
+
+
+
+
+

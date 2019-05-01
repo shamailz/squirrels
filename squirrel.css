@@ -1,0 +1,60 @@
+body{
+	background-color: hsl(218, 4%, 92%);
+	font-family: 'Cabin', sans-serif;
+}
+
+.title{
+	font-size: 60px;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+
+.info{
+	font-size: 20px;
+	padding-left: 40vw;
+	padding-right: 40vw;
+	text-align: center;
+	color: hsl(218, 4%, 49%);
+}
+
+.begin{
+	font-size: 40px;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+ a:visited, a:link, a:active{
+	text-decoration: none;
+	color: hsl(218, 5%, 25%);
+}
+a:hover{
+	text-decoration: underline;
+	color: hsl(218, 5%, 25%);
+}
+@media only screen and (max-width: 600px){
+	.title{
+	font-size: 45px;
+	margin-top: 13vh;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+
+.info{
+	font-size: 20px;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	text-align: center;
+	margin-top: -3vh;
+	color: hsl(218, 4%, 49%);
+}
+
+.begin{
+	font-size: 40px;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+ a:visited, a:link, a:active, a:hover{
+	text-decoration: underline;
+	color: hsl(218, 5%, 25%);
+}
+
+}

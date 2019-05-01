@@ -1,0 +1,19 @@
+body{
+	background-color: hsl(278, 6%, 69%);
+	font-family: 'Cabin', sans-serif;
+	overflow:hidden;
+}
+
+#tree{
+	position: absolute;
+	height: 620px;
+	width: 600px;
+	left: 65vh;
+	top: -1vw;
+}
+#squirrel{
+	position: absolute;
+	left: 88vh;
+	top: 33vw;
+	z-index: 10000;
+}
