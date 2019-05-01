@@ -657,7 +657,7 @@ body{
 	margin-top: 68.5vh;
 	margin-left: 27vw;
 	background-color: black;
-	
+
 }
 .up{
 	background-color: transparent;
@@ -770,8 +770,8 @@ body{
 }
 .top{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 3vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
@@ -795,16 +795,16 @@ body{
 }
 .front3{
 	position: absolute;
-	height: 90px;
-	width: 170px;
+	height: 200px;
+	width: 370px;
 	margin-top: 3vh;
 	margin-left: 5vw;
 	background-color: hsl(218, 6%, 80%);
 }
 .top3{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 3vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
@@ -828,16 +828,16 @@ body{
 }
 .front1{
 	position: absolute;
-	height: 90px;
-	width: 170px;
+	height: 200px;
+	width: 370px;
 	margin-top: 35vh;
 	margin-left: 5vw;
 	background-color: hsl(218, 6%, 80%);
 }
 .top1{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 35vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
@@ -861,7 +861,7 @@ body{
 }
 .front4{
 	position: absolute;
-	height: 90px;
+	height: 200px;
 	width: 170px;
 	margin-top: 35vh;
 	margin-left: 5vw;
@@ -869,8 +869,8 @@ body{
 }
 .top4{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 35vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
@@ -894,16 +894,16 @@ body{
 }
 .front2{
 	position: absolute;
-	height: 90px;
-	width: 170px;
+	height: 200px;
+	width: 370px;
 	margin-top: 70vh;
 	margin-left: 5vw;
 	background-color: hsl(218, 6%, 80%);
 }
 .top2{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 70vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
@@ -927,16 +927,16 @@ body{
 }
 .front5{
 	position: absolute;
-	height: 90px;
-	width: 170px;
+	height: 200px;
+	width: 370px;
 	margin-top: 70vh;
 	margin-left: 5vw;
 	background-color: hsl(218, 6%, 80%);
 }
 .top5{
 	position: absolute;
-	height: 90px;
-	width: 85px;
+	height: 200px;
+	width: 180px;
 	margin-top: 70vh;
 	margin-left: 12vw;
 	background-color: hsl(218, 3%, 71%);
