@@ -23,7 +23,7 @@ body{
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
 
-	.asleep{
+.asleep{
 	font-size: 90px;
 	text-align: center;
 	margin-top: 10vh;
@@ -40,5 +40,3 @@ body{
 }
 
 }
-
-@media only screen and (min-device-width( )) and (max-device-width( ))
