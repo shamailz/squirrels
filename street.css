@@ -5,18 +5,22 @@ body{
 
 @keyframes moving{
 	0%{
-		transform: translate(-200px,0);
+		/*transform: translate(-200px,0);*/
+		left: -200px;
 	}
 	100%{
-		transform: translate(100%,0);
+		/*transform: translate(100%,0);*/
+		left: 100%;
 	}
 }
 @keyframes moving2{
 	0%{
-		transform: translate(-500px,0);
+		/*transform: translate(-500px,0);*/
+		left: -500px;
 	}
 	100%{
-		transform: translate(100%,0);
+		/*transform: translate(100%,0);*/
+		left: 100%;
 	}
 }
 
@@ -657,8 +661,297 @@ body{
 
 }
 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+  	body{
+  		overflow: hidden;
+  	}
 
 
+.dashes{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 3vh;
+	margin-top: 33vw;
+}
+	.dash1{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 17vh;
+	margin-top: 33vw;
+}
+.dash2{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 32vh;
+	margin-top: 33vw;
+}
+.dash3{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 47vh;
+	margin-top: 33vw;
+}
+.dash4{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 62vh;
+	margin-top: 33vw;
+}
+.dash5{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 3vh;
+	margin-top: 80vw;
+}
+.dash6{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 17vh;
+	margin-top: 80vw;
+}
+.dash7{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 32vh;
+	margin-top: 80vw;
+}
+.dash8{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 47vh;
+	margin-top: 80vw;
+}
+.dash9{
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 62vh;
+	margin-top: 80vw;
+}
+.front{
+	position: absolute;
+	height: 200px;
+	width: 370px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheels{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel1{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front3{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 3vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top3{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 3vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel6{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel7{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 1.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front1{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top1{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel2{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel3{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front4{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 35vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top4{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 35vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel8{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel9{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 33.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front2{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top2{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel5{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel4{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+.front5{
+	position: absolute;
+	height: 90px;
+	width: 170px;
+	margin-top: 70vh;
+	margin-left: 5vw;
+	background-color: hsl(218, 6%, 80%);
+}
+.top5{
+	position: absolute;
+	height: 90px;
+	width: 85px;
+	margin-top: 70vh;
+	margin-left: 12vw;
+	background-color: hsl(218, 3%, 71%);
+}
+
+.wheel10{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 6vw;
+	background-color: black;
+}
+.wheel11{
+	position: absolute;
+	height: 110px;
+	width: 40px;
+	margin-top: 68.5vh;
+	margin-left: 27vw;
+	background-color: black;
+}
+
+}
 
 
 

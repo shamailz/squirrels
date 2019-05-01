@@ -7,10 +7,12 @@ $(document).ready(function(){
 	var top = 0;
 	var left = 0;
 
+        object.addEventListener("")
+
 
 	window.addEventListener("keydown", function(keypressed){
 
-		if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
+		/*if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
         	keypressed.preventDefault();
         	//console.log("arrow!!!!!!", keypressed.keyCode)
 
@@ -30,6 +32,6 @@ $(document).ready(function(){
                 $("#squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
 
         }
-        })
+        })*/
 
 })

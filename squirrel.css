@@ -30,29 +30,25 @@ a:hover{
 	text-decoration: underline;
 	color: hsl(218, 5%, 25%);
 }
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+@media only screen and (max-width: 600px){
 	.title{
-	font-size: 90px;
+	font-size: 45px;
 	margin-top: 13vh;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
 
 .info{
-	font-size: 50px;
-	padding-left: 4vw;
-	padding-right: 4vw;
+	font-size: 20px;
+	padding-left: 10vw;
+	padding-right: 10vw;
 	text-align: center;
 	margin-top: -3vh;
 	color: hsl(218, 4%, 49%);
 }
 
 .begin{
-	font-size: 70px;
+	font-size: 40px;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
@@ -60,5 +56,40 @@ a:hover{
 	text-decoration: underline;
 	color: hsl(218, 5%, 25%);
 }
+
+}
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  	.title{
+	font-size:55px;
+	margin-top: 13vh;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+
+.info{
+	font-size: 20px;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	text-align: center;
+	margin-top: -3vh;
+	color: hsl(218, 4%, 49%);
+}
+
+.begin{
+	font-size: 45px;
+	text-align: center;
+	color: hsl(218, 5%, 25%);
+}
+ a:visited, a:link, a:active, a:hover{
+	text-decoration: underline;
+	color: hsl(218, 5%, 25%);
+}
+
 
 }
