@@ -895,8 +895,8 @@ body{
 }
 .front2{
 	position: absolute;
-	height: 300px;
-	width: 470px;
+	height: 250px;
+	width: 420px;
 	margin-top: 70vh;
 	margin-left: 5vw;
 	background-color: hsl(218, 6%, 80%);
