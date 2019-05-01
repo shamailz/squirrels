@@ -17,7 +17,7 @@ body{
 	display: block;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 400px){
 	.asleep{
 	font-size: 900px;
 	text-align: center;
