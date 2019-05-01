@@ -657,8 +657,16 @@ body{
 	margin-top: 68.5vh;
 	margin-left: 27vw;
 	background-color: black;
+	
 }
-
+.up{
+	background-color: transparent;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	left: 20%;
+	right: 20%;
+}
 }
 
 @media only screen 
@@ -949,6 +957,14 @@ body{
 	margin-top: 68.5vh;
 	margin-left: 27vw;
 	background-color: black;
+}
+.up{
+	background-color: transparent;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	left: 20%;
+	right: 20%;
 }
 
 }

@@ -24,7 +24,6 @@ $(document).ready(function(){
                if(squirrelLeft >= carPositionLeft && squirrelLeft <= carPositionLeft + 170){
                 // run over!
                 window.location.replace("title.html");
-                console.log("byebye");
                 }
             }            
 
@@ -70,7 +69,7 @@ $(document).ready(function(){
 
         	$(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
 
-            /*var squirrel = $(".squirrel").offset();
+            var squirrel = $(".squirrel").offset();
             var screenTop = $(document).scrollTop();
             var carOne = $(".front").offset();
             console.log("Squirrel Top:", squirrel.top, squirrel.left, "Car1 top:", carOne.top, carOne.left)
@@ -100,7 +99,7 @@ $(document).ready(function(){
        var pageURL = $(location).attr("title.html");
             alert(pageURL);
             console.log(cSpot)
-    }*/
+    }
   }
 
 	})
