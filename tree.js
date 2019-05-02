@@ -21,6 +21,16 @@ $(document).ready(function(){
 	var top = 0;
 	var left = 0;
 
+  // var draggable = document.getElementById("#squirrel");
+  // draggable.addEventListener('touchmove', function(event) {
+  //   var touch = event.targetTouches[0];
+    
+  //   // Place element where the finger is
+  //   draggable.style.left = touch.pageX-25 + 'px';
+  //   draggable.style.top = touch.pageY-25 + 'px';
+  //   event.preventDefault();
+  // }, false);
+
 
 	// window.addEventListener("keydown", function(keypressed){
 

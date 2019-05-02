@@ -169,6 +169,9 @@ $(document).ready(function(){
             }
     	}
     })
+        // var top2 = 0;
+        // var left2 = 0;
+
         $(".up").click(function(){
 
                 top = top - 10;

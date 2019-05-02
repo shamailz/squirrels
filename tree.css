@@ -17,3 +17,60 @@ body{
 	top: 33vw;
 	z-index: 10000;
 }
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+html, body, .wrapper{
+  	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+#tree{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 1vh;
+	top: -1vw;
+}
+#squirrel{
+	position: absolute;
+	left: 23vh;
+	top: 70vw;
+	z-index: 10000;
+}
+}
+@media only screen and (max-width: 600px){
+html, body, .wrapper{
+  	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+#tree{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 1vh;
+	top: -1vw;
+}
+#squirrel{
+	position: absolute;
+	left: 23vh;
+	top: 70vw;
+	z-index: 10000;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+}

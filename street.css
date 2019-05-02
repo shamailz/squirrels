@@ -741,7 +741,7 @@ body{
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
 
-html, body{
+html, body, .wrapper{
   	overflow-y: hidden;
 	overflow-x: hidden;
 }
