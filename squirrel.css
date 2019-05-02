@@ -74,8 +74,8 @@ a:hover{
 
 .info{
 	font-size: 40px;
-	margin-left: -10vw;
-	margin-right: -10vw;
+	margin-left: -20vw;
+	margin-right: -20vw;
 	text-align: center;
 	color: hsl(218, 4%, 49%);
 }
