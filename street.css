@@ -785,7 +785,7 @@ html, body, .wrapper{
 
 .wheels{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 50px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -793,7 +793,7 @@ html, body, .wrapper{
 }
 .wheel1{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 25vw;
@@ -818,7 +818,7 @@ html, body, .wrapper{
 
 .wheel6{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -826,7 +826,7 @@ html, body, .wrapper{
 }
 .wheel7{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 25vw;
@@ -851,7 +851,7 @@ html, body, .wrapper{
 
 .wheel2{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 26vh;
 	margin-left: 8vw;
@@ -859,7 +859,7 @@ html, body, .wrapper{
 }
 .wheel3{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 26vh;
 	margin-left: 25vw;
@@ -884,7 +884,7 @@ html, body, .wrapper{
 
 .wheel8{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 26vh;
 	margin-left: 8vw;
@@ -892,7 +892,7 @@ html, body, .wrapper{
 }
 .wheel9{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 26vh;
 	margin-left: 25vw;
@@ -917,7 +917,7 @@ html, body, .wrapper{
 
 .wheel5{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 56vh;
 	margin-left: 8vw;
@@ -925,7 +925,7 @@ html, body, .wrapper{
 }
 .wheel4{
 	position: absolute;
-	height: 280px;
+	height: 290px;
 	width: 40px;
 	margin-top: 56vh;
 	margin-left: 25vw;
@@ -1000,9 +1000,9 @@ html, body, .wrapper{
 .squirrel{
 	position: absolute;
 	left: 80%;
-	top: 80%;
-	height: 100px;
-	width: 100px;
+	top: 90%;
+	height: 200px;
+	width: 200px;
 	z-index: 1000;
 }
 
