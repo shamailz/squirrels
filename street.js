@@ -94,10 +94,30 @@ $(document).ready(function(){
 
 
     }, 100)
-    
 
+   //   $(window).resize(function(){
 
+   //     if ($(window).width() <= 600) {  
+   //          console.log("mobile!")
 
+   //            // is mobile device
+
+            //   $(".up").click(function(){
+
+            //     top = top - 10;
+            // })
+            // $(".down").click(function(){
+            //     top = top + 10;
+            // })
+            // $(".left").click(function(){
+            //     left = left - 10;
+            //  })
+            // $(".right").click(function(){
+            //     left = left + 10;
+            // })
+
+   //     }    
+   // });
 
 
 	window.addEventListener("keydown", function(keypressed){
@@ -149,20 +169,24 @@ $(document).ready(function(){
             }
     	}
     })
+    $(".up").click(function(){
+
+                top = top - 10;
+            })
+            $(".down").click(function(){
+                top = top + 10;
+            })
+            $(".left").click(function(){
+                left = left - 10;
+             })
+            $(".right").click(function(){
+                left = left + 10;
+            })
+
         
 
-//$(".up").click(function(){
-  //  top = top+10;
-//})
-// $(".down").click(function(){
-//     top = top - 10;
-// })
-// $(".left").click(function(){
-//     left = left + 10;
-// })
-// $(".right").click(function(){
-//     left = left - 10;
-//})
+
+        
 	//var cars = [".car1", ".car2", ".car3", ".car4", ".car5", ".car6"];
 
 

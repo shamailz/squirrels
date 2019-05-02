@@ -378,6 +378,39 @@ body{
 	width: 10px;
 	z-index: 1000;
 }
+.up{
+	background-color: transparent;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	left: 20%;
+	right: 20%;
+}
+.down{
+	background-color: transparent;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	margin-top: 50%;
+	left: 20%;
+	right: 20%;
+}
+.left{
+	background-color: transparent;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 30%;
+	left: 1vh;
+}
+.right{
+	background-color: transparent;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 30%;
+	right: 1vh;
+}
 
 @media only screen and (max-width: 600px){
 	.dashes{
@@ -666,6 +699,39 @@ body{
 	position: absolute;
 	left: 20%;
 	right: 20%;
+}
+.up{
+	background-color: red;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	left: 24%;
+	right: 20%;
+}
+.down{
+	background-color: red;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	top: 27vh;
+	left: 24%;
+	right: 20%;
+}
+.left{
+	background-color: red;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 37%;
+	left: 1vh;
+}
+.right{
+	background-color: red;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 37%;
+	right: 1vh;
 }
 }
 
@@ -966,6 +1032,31 @@ body{
 	position: absolute;
 	left: 20%;
 	right: 20%;
+}
+.down{
+	background-color: transparent;
+	height: 40vh;
+	width: 50vw;
+	position: absolute;
+	margin-top: 50%;
+	left: 20%;
+	right: 20%;
+}
+.left{
+	background-color: transparent;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 30%;
+	left: 1vh;
+}
+.right{
+	background-color: transparent;
+	height: 40vh;
+	width: 40vw;
+	position: absolute;
+	margin-top: 30%;
+	right: 1vh;
 }
 
 }
