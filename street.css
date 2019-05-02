@@ -818,7 +818,7 @@ html, body, .wrapper{
 
 .wheel6{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -826,7 +826,7 @@ html, body, .wrapper{
 }
 .wheel7{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 32vw;
@@ -851,17 +851,17 @@ html, body, .wrapper{
 
 .wheel2{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 22vh;
+	margin-top: 23.5vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel3{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 22vh;
+	margin-top: 23.5vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -884,17 +884,17 @@ html, body, .wrapper{
 
 .wheel8{
 	position: absolute;
-	height: 110px;
+	height: 250px;
 	width: 40px;
-	margin-top: 22vh;
+	margin-top: 23.5vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel9{
 	position: absolute;
-	height: 110px;
+	height: 250px;
 	width: 40px;
-	margin-top: 22vh;
+	margin-top: 23.5vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -908,7 +908,7 @@ html, body, .wrapper{
 }
 .top2{
 	position: absolute;
-	height: 300px;
+	height: 250px;
 	width: 280px;
 	margin-top: 58vh;
 	margin-left: 12vw;
@@ -917,17 +917,17 @@ html, body, .wrapper{
 
 .wheel5{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 55vh;
+	margin-top: 56.5vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel4{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 55vh;
+	margin-top: 56.5vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -952,7 +952,7 @@ html, body, .wrapper{
 	position: absolute;
 	height: 110px;
 	width: 40px;
-	margin-top: 55vh;
+	margin-top: 56.5vh;
 	margin-left: 8vw;
 	background-color: black;
 }
@@ -960,7 +960,7 @@ html, body, .wrapper{
 	position: absolute;
 	height: 110px;
 	width: 40px;
-	margin-top: 55vh;
+	margin-top: 56.5vh;
 	margin-left: 32vw;
 	background-color: black;
 }
