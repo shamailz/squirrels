@@ -119,31 +119,47 @@ $(document).ready(function(){
        }    
    // });
 
+function myFunction(x) {
+  if (x.matches) { // If media query matches
+    $(".up").click(function(){
 
-	window.addEventListener("keydown", function(keypressed){
+                top = top - 10;
+            })
+            $(".down").click(function(){
+                top = top + 10;
+            })
+            $(".left").click(function(){
+                left = left - 10;
+             })
+            $(".right").click(function(){
+                left = left + 10;
+            })
 
-		if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
-        	keypressed.preventDefault();
+  } else {
+    window.addEventListener("keydown", function(keypressed){
 
-        	//console.log("arrow!!!!!!", keypressed.keyCode)
+        if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
+            keypressed.preventDefault();
 
-        	if(keypressed.keyCode == 38){
-        		// up
-        		top = top - 10;
-        	}else if(keypressed.keyCode == 40){
-        		// down
-        		top = top + 10;
-        	}else if(keypressed.keyCode == 37){
-        		// down
-        		left = left - 10;
-        	}else if(keypressed.keyCode == 39){
-        		// down
-        		left = left + 10;
-        	}
+            //console.log("arrow!!!!!!", keypressed.keyCode)
+
+            if(keypressed.keyCode == 38){
+                // up
+                top = top - 10;
+            }else if(keypressed.keyCode == 40){
+                // down
+                top = top + 10;
+            }else if(keypressed.keyCode == 37){
+                // down
+                left = left - 10;
+            }else if(keypressed.keyCode == 39){
+                // down
+                left = left + 10;
+            }
 
 
 
-        	$(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
+            $(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
 
             var squirrel = $(".squirrel").offset();
             var screenTop = $(document).scrollTop();
@@ -167,22 +183,14 @@ $(document).ready(function(){
             if( squirrel.top == screenTop){
                 window.location.replace("third-page.html");
             }
-    	}
+        }
     })
-    // $(".up").click(function(){
+  }
+}
 
-    //             top = top - 10;
-    //         })
-    //         $(".down").click(function(){
-    //             top = top + 10;
-    //         })
-    //         $(".left").click(function(){
-    //             left = left - 10;
-    //          })
-    //         $(".right").click(function(){
-    //             left = left + 10;
-    //         })
-
+var x = window.matchMedia("(max-width: 700px)")
+	
+    
         
 
 
