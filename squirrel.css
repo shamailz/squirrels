@@ -65,24 +65,24 @@ a:hover{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-  	.title{
-	font-size:55px;
+  .title{
+	font-size: 90px;
 	margin-top: 13vh;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
 
 .info{
-	font-size: 20px;
-	margin-left: 15vw;
-	margin-right: 15vw;
+	font-size: 440px;
+	margin-left: 5vw;
+	margin-right: 55vw;
 	text-align: center;
-	margin-top: -3vh;
+	margin-top: 10vh;
 	color: hsl(218, 4%, 49%);
 }
 
 .begin{
-	font-size: 45px;
+	font-size: 70px;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }
