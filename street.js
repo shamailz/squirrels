@@ -97,26 +97,26 @@ $(document).ready(function(){
 
    //   $(window).resize(function(){
 
-   //     if ($(window).width() <= 600) {  
-   //          console.log("mobile!")
+       if ($(window).width() <= 600) {  
+            console.log("mobile!")
 
-   //            // is mobile device
+              // is mobile device
 
-            //   $(".up").click(function(){
+              $(".up").click(function(){
 
-            //     top = top - 10;
-            // })
-            // $(".down").click(function(){
-            //     top = top + 10;
-            // })
-            // $(".left").click(function(){
-            //     left = left - 10;
-            //  })
-            // $(".right").click(function(){
-            //     left = left + 10;
-            // })
+                top = top - 10;
+            })
+            $(".down").click(function(){
+                top = top + 10;
+            })
+            $(".left").click(function(){
+                left = left - 10;
+             })
+            $(".right").click(function(){
+                left = left + 10;
+            })
 
-   //     }    
+       }    
    // });
 
 
@@ -169,19 +169,19 @@ $(document).ready(function(){
             }
     	}
     })
-    $(".up").click(function(){
+    // $(".up").click(function(){
 
-                top = top - 10;
-            })
-            $(".down").click(function(){
-                top = top + 10;
-            })
-            $(".left").click(function(){
-                left = left - 10;
-             })
-            $(".right").click(function(){
-                left = left + 10;
-            })
+    //             top = top - 10;
+    //         })
+    //         $(".down").click(function(){
+    //             top = top + 10;
+    //         })
+    //         $(".left").click(function(){
+    //             left = left - 10;
+    //          })
+    //         $(".right").click(function(){
+    //             left = left + 10;
+    //         })
 
         
 
