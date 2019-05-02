@@ -95,3 +95,43 @@ a:hover , a:active , a:visited , a:link{
 	top: -10vh;
 }
 }
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  	.finished{
+	position: absolute;
+	font-size: 90px;
+	text-align: center;
+}
+a:hover , a:active , a:visited , a:link{
+	color: white;
+	text-decoration: none;
+}
+#one{
+	margin-top: 97%;
+	position: absolute;
+	left: 0vw;
+}
+#two{
+	position: absolute;
+	margin-top: 73%;
+	left: 13vw;
+}
+#three{
+	position: absolute;
+	margin-top: 54%;
+	left: 13vw;
+}
+#four{
+	position: absolute;
+	top: 30%;
+	left: -2vw;
+}
+#five{
+	position: absolute;
+	left: 7%;
+	top: -10vh;
+}
+  	}
