@@ -997,6 +997,67 @@ html, body, .wrapper{
 	margin-top: 30%;
 	right: 1vh;
 }
+.car1{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 3200ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	
+}
+.car2{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 4000ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+.car3{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving;
+	animation-duration: 2500ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	}
+.car4{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 6400ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+.car5{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 8000ms;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+	}
+.car6{
+	position: fixed;
+	margin-top: 1vh;
+	height: 150px;
+	width: 100%;
+	animation-name: moving2;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
 .squirrel{
 	position: absolute;
 	left: 80%;
