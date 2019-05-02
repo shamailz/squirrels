@@ -19,6 +19,7 @@ body{
 
 .acorn{
 	opacity: 0;
+	align-content: center;
 }
 @media only screen and (max-width: 900px){
 	.find{
