@@ -966,16 +966,16 @@ html, body, .wrapper{
 }
 .up{
 	background-color: grey;
-	height: 40px;
-	width: 60px;
+	height: 100px;
+	width: 120px;
 	position: absolute;
 	left: 20%;
 	margin-top: 91%;
 }
 .down{
 	background-color: grey;
-	height: 40px;
-	width: 60px;
+	height: 100px;
+	width: 120px;
 	position: absolute;
 	margin-top: 95%;
 	left: 20%;
@@ -983,16 +983,16 @@ html, body, .wrapper{
 }
 .left{
 	background-color: grey;
-	height: 40px;
-	width: 40px;
+	height: 100px;
+	width: 100px;
 	position: absolute;
 	margin-top: 93%;
 	left: 15%;
 }
 .right{
 	background-color: grey;
-	height: 40px;
-	width: 40px;
+	height: 100px;
+	width: 100px;
 	position: absolute;
 	margin-top: 93%;
 	left: 25%;
