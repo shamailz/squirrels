@@ -414,8 +414,12 @@ body{
 
 @media only screen and (max-width: 600px){
 	.dashes{
-	visibility: hidden;
-	
+	position: absolute;
+	height: 13px;
+	width: 50px;
+	background-color: hsl(218, 10%, 84%);
+	margin-left: 3vh;
+	margin-top: 33vw;
 }
 	.dash1{
 	position: absolute;
