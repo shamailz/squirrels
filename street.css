@@ -766,7 +766,7 @@ html, body, .wrapper{
 .dash9{
 	 visibility: hidden;
 }
-/*.front{
+.front{
 	position: absolute;
 	height: 250px;
 	width: 420px;
@@ -796,7 +796,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 1.5vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .front3{
@@ -829,7 +829,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 1.5vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .front1{
@@ -862,7 +862,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 22vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .front4{
@@ -895,7 +895,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 22vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .front2{
@@ -928,7 +928,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 55vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .front5{
@@ -961,7 +961,7 @@ html, body, .wrapper{
 	height: 110px;
 	width: 40px;
 	margin-top: 55vh;
-	margin-left: 32vw;
+	margin-left: 25vw;
 	background-color: black;
 }
 .up{
@@ -996,7 +996,7 @@ html, body, .wrapper{
 	position: absolute;
 	margin-top: 30%;
 	right: 1vh;
-}*/
+}
 .squirrel{
 	position: absolute;
 	left: 80%;
