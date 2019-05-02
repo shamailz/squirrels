@@ -820,16 +820,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 1.5vh;
-	margin-left: 8vw;
+	margin-top: 2vh;
+	margin-left: 10vw;
 	background-color: black;
 }
 .wheel7{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 1.5vh;
-	margin-left: 25vw;
+	margin-top: 2vh;
+	margin-left: 28vw;
 	background-color: black;
 }
 .front1{
@@ -853,16 +853,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 26vh;
-	margin-left: 8vw;
+	margin-top: 27vh;
+	margin-left: 10vw;
 	background-color: black;
 }
 .wheel3{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 26vh;
-	margin-left: 25vw;
+	margin-top: 27vh;
+	margin-left: 28vw;
 	background-color: black;
 }
 .front4{
@@ -886,16 +886,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 26vh;
-	margin-left: 8vw;
+	margin-top: 27vh;
+	margin-left: 10vw;
 	background-color: black;
 }
 .wheel9{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 26vh;
-	margin-left: 25vw;
+	margin-top: 27vh;
+	margin-left: 28vw;
 	background-color: black;
 }
 .front2{
@@ -919,16 +919,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 56vh;
-	margin-left: 8vw;
+	margin-top: 57vh;
+	margin-left: 10vw;
 	background-color: black;
 }
 .wheel4{
 	position: absolute;
 	height: 290px;
 	width: 40px;
-	margin-top: 56vh;
-	margin-left: 25vw;
+	margin-top: 57vh;
+	margin-left: 28vw;
 	background-color: black;
 }
 .front5{
@@ -950,18 +950,18 @@ html, body, .wrapper{
 
 .wheel10{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 56vh;
-	margin-left: 8vw;
+	margin-top: 57vh;
+	margin-left: 10vw;
 	background-color: black;
 }
 .wheel11{
 	position: absolute;
-	height: 110px;
+	height: 280px;
 	width: 40px;
-	margin-top: 56vh;
-	margin-left: 25vw;
+	margin-top: 57vh;
+	margin-left: 28vw;
 	background-color: black;
 }
 .up{
@@ -1000,9 +1000,9 @@ html, body, .wrapper{
 .squirrel{
 	position: absolute;
 	left: 80%;
-	top: 90%;
-	height: 200px;
-	width: 200px;
+	top: 92%;
+	height: 350px;
+	width: 350px;
 	z-index: 1000;
 }
 
