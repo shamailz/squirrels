@@ -747,86 +747,36 @@ body{
 }
 
 
-/*.dashes{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 3vh;
-	margin-top: 33vw;
+.dashes{
+	visibility: hidden;
 }
-	.dash1{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 17vh;
-	margin-top: 33vw;
+.dash1{
+	visibility: hidden;
 }
 .dash2{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 32vh;
-	margin-top: 33vw;
+	visibility: hidden;
 }
 .dash3{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 47vh;
-	margin-top: 33vw;
+	visibility: hidden;
 }
 .dash4{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 62vh;
-	margin-top: 33vw;
+	visibility: hidden;
 }
 .dash5{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 3vh;
-	margin-top: 80vw;
+	visibility: hidden;
 }
 .dash6{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 17vh;
-	margin-top: 80vw;
+	visibility: hidden;
 }
 .dash7{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 32vh;
-	margin-top: 80vw;
+	visibility: hidden;
 }
 .dash8{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 47vh;
-	margin-top: 80vw;
+	visibility: hidden;
 }
 .dash9{
-	position: absolute;
-	height: 13px;
-	width: 50px;
-	background-color: hsl(218, 10%, 84%);
-	margin-left: 62vh;
-	margin-top: 80vw;
-}*/
+	 visibility: hidden;
+}
 .front{
 	position: absolute;
 	height: 250px;
