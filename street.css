@@ -965,37 +965,37 @@ html, body, .wrapper{
 	background-color: black;
 }
 .up{
-	background-color: transparent;
-	height: 40vh;
-	width: 50vw;
+	background-color: grey;
+	height: 40px;
+	width: 60px;
 	position: absolute;
 	left: 20%;
-	right: 20%;
+	margin-top: 91%;
 }
 .down{
-	background-color: transparent;
-	height: 40vh;
-	width: 50vw;
+	background-color: grey;
+	height: 40px;
+	width: 60px;
 	position: absolute;
-	margin-top: 50%;
+	margin-top: 95%;
 	left: 20%;
-	right: 20%;
+	
 }
 .left{
-	background-color: transparent;
-	height: 40vh;
-	width: 40vw;
+	background-color: grey;
+	height: 40px;
+	width: 40px;
 	position: absolute;
-	margin-top: 30%;
-	left: 1vh;
+	margin-top: 93%;
+	left: 15%;
 }
 .right{
-	background-color: transparent;
-	height: 40vh;
-	width: 40vw;
+	background-color: grey;
+	height: 40px;
+	width: 40px;
 	position: absolute;
-	margin-top: 30%;
-	right: 1vh;
+	margin-top: 93%;
+	left: 25%;
 }
 .car1{
 	position: fixed;
