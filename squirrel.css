@@ -67,7 +67,7 @@ a:hover{
   and (orientation: portrait) { 
   .title{
 	font-size: 90px;
-	margin-top: 13vh;
+	margin-top: 5vh;
 	text-align: center;
 	color: hsl(218, 5%, 25%);
 }

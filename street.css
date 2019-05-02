@@ -766,7 +766,7 @@ html, body, .wrapper{
 .dash9{
 	 visibility: hidden;
 }
-.front{
+/*.front{
 	position: absolute;
 	height: 250px;
 	width: 420px;
@@ -786,14 +786,14 @@ html, body, .wrapper{
 .wheels{
 	position: absolute;
 	height: 280px;
-	width: 40px;
+	width: 50px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel1{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 32vw;
@@ -818,7 +818,7 @@ html, body, .wrapper{
 
 .wheel6{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -826,7 +826,7 @@ html, body, .wrapper{
 }
 .wheel7{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 32vw;
@@ -851,17 +851,17 @@ html, body, .wrapper{
 
 .wheel2{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
-	margin-top: 23.5vh;
+	margin-top: 22vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel3{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
-	margin-top: 23.5vh;
+	margin-top: 22vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -884,17 +884,17 @@ html, body, .wrapper{
 
 .wheel8{
 	position: absolute;
-	height: 250px;
+	height: 110px;
 	width: 40px;
-	margin-top: 23.5vh;
+	margin-top: 22vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel9{
 	position: absolute;
-	height: 250px;
+	height: 110px;
 	width: 40px;
-	margin-top: 23.5vh;
+	margin-top: 22vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -917,17 +917,17 @@ html, body, .wrapper{
 
 .wheel5{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
-	margin-top: 56.5vh;
+	margin-top: 55vh;
 	margin-left: 8vw;
 	background-color: black;
 }
 .wheel4{
 	position: absolute;
-	height: 280px;
+	height: 110px;
 	width: 40px;
-	margin-top: 56.5vh;
+	margin-top: 55vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -952,7 +952,7 @@ html, body, .wrapper{
 	position: absolute;
 	height: 110px;
 	width: 40px;
-	margin-top: 56.5vh;
+	margin-top: 55vh;
 	margin-left: 8vw;
 	background-color: black;
 }
@@ -960,7 +960,7 @@ html, body, .wrapper{
 	position: absolute;
 	height: 110px;
 	width: 40px;
-	margin-top: 56.5vh;
+	margin-top: 55vh;
 	margin-left: 32vw;
 	background-color: black;
 }
@@ -996,7 +996,7 @@ html, body, .wrapper{
 	position: absolute;
 	margin-top: 30%;
 	right: 1vh;
-}
+}*/
 .squirrel{
 	position: absolute;
 	left: 80%;
