@@ -54,7 +54,7 @@ $(document).ready(function(){
          var carTwoTop = $(".front1").offset().top;
         var carTwoLeft = $(".front1").offset().left;
          if(squirrelTop >= carTwoTop && squirrelTop  <= carTwoTop + 90){
-            if(squirrelLeft >= carTwoeft && squirrelLeft <= carTwoLeft + 170){
+            if(squirrelLeft >= carTwoLeft && squirrelLeft <= carTwoLeft + 170){
         //         // run over!
                 window.location.replace("title.html");
              }
@@ -120,30 +120,30 @@ $(document).ready(function(){
    // });
 
 
-	// window.addEventListener("keydown", function(keypressed){
+	window.addEventListener("keydown", function(keypressed){
 
-	// 	if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
- //        	keypressed.preventDefault();
+		if([32, 37, 38, 39, 40].indexOf(keypressed.keyCode) > -1) {
+        	keypressed.preventDefault();
 
- //        	//console.log("arrow!!!!!!", keypressed.keyCode)
+        	//console.log("arrow!!!!!!", keypressed.keyCode)
 
- //        	if(keypressed.keyCode == 38){
- //        		// up
- //        		top = top - 10;
- //        	}else if(keypressed.keyCode == 40){
- //        		// down
- //        		top = top + 10;
- //        	}else if(keypressed.keyCode == 37){
- //        		// down
- //        		left = left - 10;
- //        	}else if(keypressed.keyCode == 39){
- //        		// down
- //        		left = left + 10;
- //        	}
+        	if(keypressed.keyCode == 38){
+        		// up
+        		top = top - 10;
+        	}else if(keypressed.keyCode == 40){
+        		// down
+        		top = top + 10;
+        	}else if(keypressed.keyCode == 37){
+        		// down
+        		left = left - 10;
+        	}else if(keypressed.keyCode == 39){
+        		// down
+        		left = left + 10;
+        	}
 
 
 
-        	// $(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
+        	$(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
 
             var squirrel = $(".squirrel").offset();
             var screenTop = $(document).scrollTop();
@@ -167,9 +167,9 @@ $(document).ready(function(){
             if( squirrel.top == screenTop){
                 window.location.replace("third-page.html");
             }
-    // 	}
-    // })
-            $(".up").click(function(){
+    	}
+    })
+        $(".up").click(function(){
 
                 top = top - 10;
             })
@@ -182,8 +182,6 @@ $(document).ready(function(){
             $(".right").click(function(){
                 left = left + 10;
             })
-            $(".squirrel").css({"transform" : "translate(" + left + "px,"+top+"px)"})
-
 
         
 
