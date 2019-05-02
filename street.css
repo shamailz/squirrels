@@ -378,7 +378,7 @@ body{
 	width: 10px;
 	z-index: 1000;
 }
-.up{
+/*.up{
 	background-color: transparent;
 	height: 40vh;
 	width: 50vw;
@@ -411,7 +411,7 @@ body{
 	margin-top: 30%;
 	right: 1vh;
 }
-
+*/
 @media only screen and (max-width: 600px){
 	.dashes{
 	position: absolute;
