@@ -28,7 +28,7 @@ body{
   and (orientation: portrait) { 
 
 	  .crossed{
-	font-size: 90px;
+	font-size: 50px;
 	text-align: center;
 	padding-left: 20vw;
 	padding-right: 20vw;
