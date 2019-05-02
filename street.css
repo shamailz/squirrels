@@ -778,8 +778,8 @@ html, body, .wrapper{
 	position: absolute;
 	height: 250px;
 	width: 230px;
-	margin-top: 3vh;
-	margin-left: 12vw;
+	top: 3vh;
+	left: 12vw;
 	background-color: hsl(218, 3%, 71%);
 }
 
@@ -787,8 +787,8 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 50px;
-	margin-top: 1.5vh;
-	margin-left: 8vw;
+	top: 1.5vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel1{
@@ -796,7 +796,7 @@ html, body, .wrapper{
 	height: 260px;
 	width: 40px;
 	margin-top: 1.5vh;
-	margin-left: 32vw;
+	margin-left: 36vw;
 	background-color: black;
 }
 .front3{
@@ -820,16 +820,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 1.5vh;
-	margin-left: 8vw;
+	top: 1.5vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel7{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 1.5vh;
-	margin-left: 32vw;
+	top: 1.5vh;
+	left: 36vw;
 	background-color: black;
 }
 .front1{
@@ -853,16 +853,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 23.5vh;
-	margin-left: 8vw;
+	top: 24vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel3{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 23.5vh;
-	margin-left: 32vw;
+	top: 24vh;
+	left: 36vw;
 	background-color: black;
 }
 .front4{
@@ -886,16 +886,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 23.5vh;
-	margin-left: 8vw;
+	top: 24vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel9{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 23.5vh;
-	margin-left: 32vw;
+	margin-top: 24vh;
+	margin-left: 36vw;
 	background-color: black;
 }
 .front2{
@@ -919,16 +919,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 56.5vh;
-	margin-left: 8vw;
+	top: 57vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel4{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 56.5vh;
-	margin-left: 32vw;
+	top: 57vh;
+	left: 36vw;
 	background-color: black;
 }
 .front5{
@@ -952,16 +952,16 @@ html, body, .wrapper{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 56.5vh;
-	margin-left: 8vw;
+	top: 57vh;
+	left: 12vw;
 	background-color: black;
 }
 .wheel11{
 	position: absolute;
 	height: 260px;
 	width: 40px;
-	margin-top: 56.5vh;
-	margin-left: 32vw;
+	top: 57vh;
+	left: 36vw;
 	background-color: black;
 }
 .up{
