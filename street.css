@@ -785,7 +785,7 @@ html, body, .wrapper{
 
 .wheels{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 50px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -793,7 +793,7 @@ html, body, .wrapper{
 }
 .wheel1{
 	position: absolute;
-	height: 110px;
+	height: 260px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 32vw;
@@ -818,7 +818,7 @@ html, body, .wrapper{
 
 .wheel6{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 8vw;
@@ -826,7 +826,7 @@ html, body, .wrapper{
 }
 .wheel7{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 1.5vh;
 	margin-left: 32vw;
@@ -851,7 +851,7 @@ html, body, .wrapper{
 
 .wheel2{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 23.5vh;
 	margin-left: 8vw;
@@ -859,7 +859,7 @@ html, body, .wrapper{
 }
 .wheel3{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 23.5vh;
 	margin-left: 32vw;
@@ -884,7 +884,7 @@ html, body, .wrapper{
 
 .wheel8{
 	position: absolute;
-	height: 250px;
+	height: 260px;
 	width: 40px;
 	margin-top: 23.5vh;
 	margin-left: 8vw;
@@ -892,7 +892,7 @@ html, body, .wrapper{
 }
 .wheel9{
 	position: absolute;
-	height: 250px;
+	height: 260px;
 	width: 40px;
 	margin-top: 23.5vh;
 	margin-left: 32vw;
@@ -917,7 +917,7 @@ html, body, .wrapper{
 
 .wheel5{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 56.5vh;
 	margin-left: 8vw;
@@ -925,7 +925,7 @@ html, body, .wrapper{
 }
 .wheel4{
 	position: absolute;
-	height: 280px;
+	height: 260px;
 	width: 40px;
 	margin-top: 56.5vh;
 	margin-left: 32vw;
@@ -950,7 +950,7 @@ html, body, .wrapper{
 
 .wheel10{
 	position: absolute;
-	height: 110px;
+	height: 260px;
 	width: 40px;
 	margin-top: 56.5vh;
 	margin-left: 8vw;
@@ -958,7 +958,7 @@ html, body, .wrapper{
 }
 .wheel11{
 	position: absolute;
-	height: 110px;
+	height: 260px;
 	width: 40px;
 	margin-top: 56.5vh;
 	margin-left: 32vw;
