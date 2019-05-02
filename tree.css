@@ -59,8 +59,8 @@ html, body, .wrapper{
 	position: absolute;
 	height: 200px;
 	width: 180px;
-	left: 16vw;
-	top: 70vh;
+	left: 10vw;
+	top: 90vh;
 	z-index: 10000;
 }
 }
