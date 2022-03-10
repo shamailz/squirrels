@@ -207,7 +207,7 @@ body{
 	height: 110px;
 	width: 40px;
 	margin-top: 33.5vh;
-	margin-left: 14.5vw;
+	margin-left: 10vw;
 	background-color: black;
 }
 .front4{
@@ -373,7 +373,7 @@ body{
 .squirrel{
 	position: absolute;
 	left: 80%;
-	top: 550px;
+	top: 90vh;
 	height: 10px;
 	width: 10px;
 	z-index: 1000;
